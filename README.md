@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepak5141 a tech enthusiastic.
 - 👀 I’m interested in Computer Programming, Machine learning and Natural Language Processing.
 - 🌱 I’m currently learning Natural Language Processing and Data Science.
-- 💞️ I’m looking to collaborate on some ML projects based on cutting edge technology .
+- 💞️ I’m looking to collaborate on some NLP based project.
 - 📫 How to reach me ... mail me at : deepak_ug@cse.nits.ac.in
 
 <!---
