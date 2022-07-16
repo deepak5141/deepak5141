@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deepak5141
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @deepak5141 a tech enthusiastic.
+- 👀 I’m interested in Computer Programming, Machine learning and Natural Language Processing.
+- 🌱 I’m currently learning Natural Language Processing and Data Science.
+- 💞️ I’m looking to collaborate on some ML projects based on cutting edge technology .
+- 📫 How to reach me ... mail me at : deepak_ug@cse.nits.ac.in
 
 <!---
 deepak5141/deepak5141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
